@@ -1,7 +1,7 @@
 
 
 
-## 📝 Feel free to click  ⭐ [follow](https://github.com/Gbesh-Mod) button. I am always here ... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Gbesh-Mod?label=Follow%20Me&style=social)](https://github.com/Ahmad-Sawalqeh)
+## 📝 Feel free to click  ⭐ [follow](https://github.com/Gbesh-Mod) button. I am always here ... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Gbesh-Mod?label=Follow%20Me&style=social)](https://github.com/Gbesh-Mod)
 <br>
 <br>
 [![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sawalqa_jo@hotmail.com)
@@ -78,8 +78,3 @@
   <img align="left" alt="opps very poor GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
-
-[website in progress]: https://codeSTACKr.com
-[twitter]: https://t.me/ 
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr

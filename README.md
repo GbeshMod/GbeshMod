@@ -4,10 +4,10 @@
 ## 📝 Feel free to click  ⭐ [follow](https://github.com/Gbesh-Mod) button. I am always here ... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Gbesh-Mod?label=Follow%20Me&style=social)](https://github.com/Gbesh-Mod)
 <br>
 <br>
-[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sawalqa_jo@hotmail.com)
+
 </br>
 
-### Hi there, I'm Gbesh -[website] 👋
+### Hi there, I'm Gbesh 👋
 
 <h2 align='center'><samp><strong>           </strong></samp></h2>
 <h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>

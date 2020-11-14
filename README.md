@@ -14,8 +14,7 @@
 <p align='center'>Software developer | Full-stack JavaScript | Think about Python | Web developer</p>
 ###  Playing 🎧
 
-<audio src="https://audiomack.com/embed/album/temsbaby/forbrokenears?background=1&color=778cea" scrolling="no" width="100%" height="200" scrollbars="no" frameborder="0">
-</audio>
+[audiomack background="1" src="https://audiomack.com/embed/album/rauwalejandro/afrodisiaco"]
 
 ## I'm a Brother, Uncle, Son, Developer, and  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!
 

@@ -7,7 +7,7 @@
 
 </br>
 
-### Hi there, I'm Gbesh 👋
+### Hi there, I'm Gβε§h👋
 
 <h2 align='center'><samp><strong>           </strong></samp></h2>
 <h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>

@@ -10,7 +10,7 @@
 <img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
 </br>
 <br><b><p style="text-align:center";><font color='#000080'>◇━━━━━━━━━━━━━━━━━━━━━◇</font><br>
-<b><font color='#B8860B'>⇱ MTN FREE DATA GH🇬🇭 ⇲</font><br> 
+<b><font color='#B8860B'>⇱ Heavenly Demon⇲</font><br> 
 <b><font color='#000080'>◇━━━━━━━━━━━━━━━━━━━━━◇</font><br>
 <b><font color='#DC143C'>! TERM OF SERVICE !</font><br> 
 <b><font color='#8A2BE2'>No Spam</font><br> 

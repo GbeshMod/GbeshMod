@@ -10,14 +10,8 @@
 <!-- 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/>
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Gbeshmod&fontAlign=80&fontAlignY=40&color=gradient)
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+QLD+Hand&weight=600&size=40&pause=1000&color=170DB6&center=true&vCenter=true&width=1000&height=300&lines=Hi+%F0%9F%91%8B%2C++I'm+Gbeshmod+;Member+of++%E2%9C%A7HEAVENLY+DEMON+Sect+%E2%81%A0)](https://git.io/typing-svg)
-
-https://capsule-render.vercel.app/api?type=waving&height=150&color=0:2c3188,100:f9cafb&text=GbeshMod&fontColor=ffffff&fontAlign=86&fontAlignY=25&animation=twinkling&fontSize=40&desc=Since%20there%20is%20an%20angel%20in%20Hell,%20Why%20is%20there%20no%20Demon%20in%20heaven&descAlign=19&descAlignY=35&descSize=10
-
-
+![waving](https://capsule-render.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com)](https://git.io/typing-svg)
 
 
 --> 
@@ -76,14 +70,12 @@ I am a `Lazy Bot` currently halfway through my Life, I am expanding my knowledge
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***&nbsp;<img width=100% src="https://github.com/GbeshMod/GbeshMod/blob/main/picture/lin-neon.gif?raw=true">
 
+<p align="center"><img align="right" width=410px alt="Unicorn" src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif"/>
 
 ###### Languages & Syntax:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-
-<img align="right" width=410px alt="Unicorn" src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif"/>
-<img width=100% src="https://github.com/GbeshMod/GbeshMod/blob/main/picture/lin-neon.gif?raw=true">
 
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -120,6 +112,7 @@ I am a `Lazy Bot` currently halfway through my Life, I am expanding my knowledge
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
 <br>
 <br>
+</p>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best***
 <img src="https://github.com/GbeshMod/GbeshMod/blob/main/picture/lin-neon.gif?raw=true" width="100%">
@@ -224,4 +217,4 @@ I am a `Lazy Bot` currently halfway through my Life, I am expanding my knowledge
 
 ###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:f9cafb,100:2c3188&fontAlign=100&fontAlignY=100&descAlign=100&descAlignY=100&section=footer" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:f9cafb,100:2c3188&fontAlign=100&fontAlignY=100&descAlign=100&descAlignY=100&section=footer" alt="header"/> 

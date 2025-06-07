@@ -155,7 +155,7 @@ I am a `Lazy Bot` currently halfway through my Life, I am expanding my knowledge
 </details>
 <br>
 
-<img href="#" src="https://github.com/GbeshMod/GbeshMod/blob/main/picture/lin-neon.gif?raw=true" width="100%">
+<img src="https://github.com/GbeshMod/GbeshMod/blob/main/picture/lin-neon.gif?raw=true" width="100%">
 
 <!-- Github Stats -->
 

@@ -25,11 +25,20 @@ That's it! You can also check my github repo @abozanona for an example
 [![Typing SVG](https://readme-typing-svg.demolab.com)](https://git.io/typing-svg)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+this:
+
+![myimg](link){: height="75px" width="300px" style="float:left; padding-right:10px" }
+attributes as
+
+![myimg](link){: height="75px" width="300px" align="left"}
+
+![image](link)&nbsp;&nbsp;&nbsp;&nbsp;text
+
 
 --> 
 
 <!-- Header -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:2c3188,100:f9cafb&text=GbeshMod&fontColor=ffffff&fontAlign=86&fontAlignY=25&animation=twinkling&fontSize=40&desc=Since%20there%20is%20an%20Angel%20in%20Hell,%20Why%20is%20there%20no%20Demon%20in%20heaven&descAlign=26&descAlignY=35&descSize=15" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000211,100:160b85&text=GbeshMod&fontColor=ffffff&fontAlign=86&fontAlignY=25&animation=twinkling&fontSize=40&desc=Since%20there%20is%20an%20Angel%20in%20Hell,%20Why%20is%20there%20no%20Demon%20in%20heaven&descAlign=26&descAlignY=35&descSize=15" alt="header"/> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=4500&pause=500&color=2c3188&width=500&lines=Hi+%F0%9F%91%8B%2C++I'm+Gbeshmod+;Member+of++%E2%9C%A7HEAVENLY+DEMON+Sect+%E2%81%A0" alt="Business Analyst"/>
 </a>&nbsp;
 
@@ -146,14 +155,14 @@ I am a `Lazy Bot` currently halfway through my Life, I am expanding my knowledge
 </details>
 <br>
 
-<img src="https://github.com/GbeshMod/GbeshMod/blob/main/picture/lin-neon.gif?raw=true" width="100%">
+<img href="#" src="https://github.com/GbeshMod/GbeshMod/blob/main/picture/lin-neon.gif?raw=true" width="100%">
 
 <!-- Github Stats -->
 
 
 <details>
 <summary>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><strong>Github Stats</strong></summary>
+<img href="#" src="https://github.com/GbeshMod/GbeshMod/blob/main/picture/money.gif?raw=true" width=15 valign="bottom" ><strong>Github Stats</strong></summary>
 
 <br>
 <p align="center">
@@ -181,68 +190,35 @@ I am a `Lazy Bot` currently halfway through my Life, I am expanding my knowledge
 </p>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GbeshMod&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00AEFF&icon_color=2DDE98&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GbeshMod's Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GbeshMod&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&line_height=20&title_color=00AEFF&icon_color=2DDE98&text_color=D3D3D3&bg_color=0,000211,000216,00062a,010861,160b85,3d0991,540093" alt="GbeshMod's Github Stats"/>
 </br>
 
-&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
 
 
 <img src="https://github.com/GbeshMod/GbeshMod/blob/main/picture/lin-neon.gif?raw=true" width="100%">
 
-
-
-<script type="module">
-import { PacmanRenderer } from 'https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js';
-const pr = new PacmanRenderer({
-    platform: 'github',
-    username: 'GbesMod',
-    canvas: document.getElementById('canvas'),
-    outputFormat: 'canvas',
-    gameTheme: 'github'
-});
-pr.start();
-</script>
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GbeshMod/GbeshMod/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GbeshMod/GbeshMod/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GbeshMod/GbeshMod/output/pacman-contribution-graph.svg">
-</picture>
-
 <!-- Visitor Counter -->
 <br>
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
+<div width="80%" align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media1.tenor.com/m/qjM445k2uREAAAAd/eyeball-creepy.gif" width="30">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/GbeshMod/count.svg">
     <img src="https://media1.tenor.com/m/qjM445k2uREAAAAd/eyeball-creepy.gif" width="30">
 </div>
 <br>
 
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-</div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:f9cafb,100:2c3188&fontAlign=100&fontAlignY=100&descAlign=100&descAlignY=100&section=footer" alt="header"/> 
+
+<!-- For pacman -->
+<img src="https://pacman.abozanona.me?username=GbeshMod" />
+
+<!-- For snake -->
+<p align="center">
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GbeshMod/GbeshMod/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GbeshMod/GbeshMod/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GbeshMod/GbeshMod/output/github-contribution-grid-snake.svg">
+	</picture>
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:160b85,100:000211&fontAlign=100&fontAlignY=100&descAlign=100&descAlignY=100&section=footer" alt="header"/> 
